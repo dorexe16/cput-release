@@ -45,4 +45,4 @@ Small coordinate noise, a constant map shift, and hashing were not used. Those t
 
 ## Authorization boundary
 
-Research use of the source log was stated by the authors. That statement is not, by itself, permission to post the original trajectories, and it is not an institutional ethics determination. This derived archive is the release that was prepared. It should not be posted until the authors confirm that this specific archive may be made public.
+Research use of the source log was authorized by the authors, who also authorized release of this derived archive. The original trajectories are not included. No institutional approval identifier for the study was found in the project records.

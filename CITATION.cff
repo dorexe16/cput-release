@@ -17,4 +17,4 @@ identifiers:
   - type: doi
     value: 10.2139/ssrn.5517261
     description: Authors' own 2025 SSRN preprint of an earlier version. Not an independent method.
-license: MIT
+repository-code: "https://github.com/dorexe16/cput-release"
