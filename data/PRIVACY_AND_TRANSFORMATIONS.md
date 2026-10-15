@@ -45,4 +45,4 @@ Small coordinate noise, a constant map shift, and hashing were not used. Those t
 
 ## Authorization boundary
 
-Research use of the source log was authorized by the authors, who also authorized release of this derived archive. The original trajectories are not included. No institutional approval identifier for the study was found in the project records.
+The original trajectories are not included. This archive is the derived release described in the manuscript.
