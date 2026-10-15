@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: >-
+  Linking recurrent destinations from two labeled anchors in sparse GPS
+message: >-
+  Please cite the accompanying manuscript if you use this repository.
+type: software
+authors:
+  - given-names: Dor
+    family-names: Bar
+    affiliation: Tel Aviv University
+    email: dorbar1@mail.tau.ac.il
+  - given-names: Irad
+    family-names: Ben-Gal
+    affiliation: Tel Aviv University
+    email: bengal@tauex.tau.ac.il
+identifiers:
+  - type: doi
+    value: 10.2139/ssrn.5517261
+    description: Authors' own 2025 SSRN preprint of an earlier version. Not an independent method.
+license: MIT

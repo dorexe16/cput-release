@@ -1,0 +1,15 @@
+{
+  "zip_bytes": 107409,
+  "part_bytes": {
+    "dataset.part01": 35803,
+    "dataset.part02": 35803,
+    "dataset.part03": 35803
+  },
+  "table_rows": {
+    "affinity.csv": 7,
+    "groups.csv": 7,
+    "segments.csv": 3879,
+    "spectral_runs.csv": 70,
+    "trips_kinematics.csv": 1033
+  }
+}
